@@ -1,1 +1,1 @@
-# Finals.github.io
+# Finals
